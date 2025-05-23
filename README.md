@@ -2,7 +2,7 @@
 
 Este repositório contém a estrutura de um projeto com um back-end em Laravel e um front-end em React.  
 
-## Rodando o Back-End
+## Executando o Back-End
 
 1. Entre na pasta do backend:
    ```bash
@@ -12,7 +12,7 @@ Este repositório contém a estrutura de um projeto com um back-end em Laravel e
    ```bash
    php artisan serve
 
-## Rodando o Front-end
+## Executando o Front-end
 
 1. Entre na pasta do frontend:
    ```bash
